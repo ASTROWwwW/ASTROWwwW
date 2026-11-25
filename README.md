@@ -2,7 +2,7 @@
 <h3 align="center">Software developer · open source and business software</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Building%20More%2C%20a%20GPU%20sharing%20network;Building%20a%20CRM%20in%20TypeScript%20and%20Postgres;Automating%20business%20work%20with%20AI%20agents;Rust%20%C2%B7%20TypeScript%20%C2%B7%20Lua&font=Fira%20Code&center=true&width=520&height=45&color=a68bff&vCenter=true&pause=1000&size=22" alt="Typing animation"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Building%20More;Building%20a%20CRM;AI%20agents%20and%20automation;Rust%20%C2%B7%20TypeScript&font=Fira%20Code&center=true&width=400&height=45&color=a68bff&vCenter=true&pause=1000&size=22" alt="Typing animation"></a>
 </p>
 
 <p align="center">
