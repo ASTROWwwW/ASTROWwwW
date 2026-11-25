@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="52" viewBox="0 0 160 52" role="img" aria-label="Discord">
+<defs>
+<linearGradient id="glass" x1="0" y1="0" x2="0.6" y2="1">
+  <stop offset="0" stop-color="#fff" stop-opacity=".10"/>
+  <stop offset=".6" stop-color="#fff" stop-opacity=".025"/>
+  <stop offset="1" stop-color="#fff" stop-opacity=".05"/>
+</linearGradient>
+<linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#a68bff"/><stop offset="1" stop-color="#8b6cf0"/>
+</linearGradient>
+
+</defs>
+<style>
+text{font-family:'Figtree','Segoe UI','Helvetica Neue',Arial,sans-serif}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x=".5" y=".5" width="159" height="51" rx="26" fill="#0a0912"/>
+<rect x=".5" y=".5" width="159" height="51" rx="26" fill="url(#glass)" stroke="#fff" stroke-opacity=".18"/>
+<path d="M60.1 4.9A58.5 58.5 0 0 0 45.65.42a.22.22 0 0 0-.23.1 40.8 40.8 0 0 0-1.8 3.7 54 54 0 0 0-16.24 0 37.4 37.4 0 0 0-1.82-3.7.23.23 0 0 0-.24-.1A58.3 58.3 0 0 0 10.88 4.9a.2.2 0 0 0-.1.08C1.58 18.73-.94 32.14.29 45.39c0 .07.04.13.09.17a58.8 58.8 0 0 0 17.73 8.96c.09.03.19 0 .24-.08a42 42 0 0 0 3.63-5.9.22.22 0 0 0-.12-.31 38.7 38.7 0 0 1-5.54-2.64.23.23 0 0 1-.02-.38q.56-.42 1.1-.86a.22.22 0 0 1 .23-.03 41.9 41.9 0 0 0 35.69 0 .22.22 0 0 1 .23.03q.53.44 1.1.86a.23.23 0 0 1-.02.38 36.3 36.3 0 0 1-5.54 2.63.22.22 0 0 0-.12.32 47 47 0 0 0 3.62 5.9c.06.08.16.11.25.08a58.6 58.6 0 0 0 17.75-8.96.22.22 0 0 0 .09-.17c1.48-15.32-2.48-28.62-10.5-40.41a.18.18 0 0 0-.09-.09M23.73 37.33c-3.5 0-6.38-3.21-6.38-7.16s2.83-7.15 6.38-7.15c3.58 0 6.43 3.24 6.38 7.15 0 3.95-2.83 7.16-6.38 7.16m23.59 0c-3.5 0-6.38-3.21-6.38-7.16s2.83-7.15 6.38-7.15c3.58 0 6.43 3.24 6.38 7.15 0 3.95-2.8 7.16-6.38 7.16" transform="translate(22 19) scale(.29)" fill="#fff"/>
+<text x="58" y="32" font-size="16" font-weight="700" fill="#fff">Discord</text>
+</svg>
