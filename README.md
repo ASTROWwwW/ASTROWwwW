@@ -11,7 +11,7 @@
 
 - Building [More](https://github.com/ASTROWwwW/more), an open-source network to share GPU power (Rust)
 - Building a CRM (TypeScript, PostgreSQL), private for now
-- AI agents and automation
+- AI agents and automation, including Potklin, my own coding agent
 - Past work: FiveM, ESX contributor
 
 ### Languages and tools
