@@ -22,7 +22,7 @@
 
 ### GitHub stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=ASTROWwwW&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0a0912&title_color=a68bff&icon_color=5fe8a6&text_color=ffffff" alt="GitHub stats"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASTROWwwW&layout=compact&hide_border=true&bg_color=0a0912&title_color=a68bff&text_color=ffffff" alt="Top languages"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=ASTROWwwW&show_icons=true&hide_border=true&bg_color=0a0912&title_color=a68bff&icon_color=5fe8a6&text_color=ffffff" alt="GitHub stats"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASTROWwwW&layout=compact&hide_border=true&bg_color=0a0912&title_color=a68bff&text_color=ffffff" alt="Top languages"> |
 | --- | --- |
 
 <img src="https://streak-stats.demolab.com?user=ASTROWwwW&hide_border=true&background=0a0912&ring=a68bff&fire=5fe8a6&currStreakLabel=a68bff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=9a9aa8" alt="Contribution streak">
