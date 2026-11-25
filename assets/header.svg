@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Astrow, développeur FiveM">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Astrow, FiveM developer">
 <defs>
 <linearGradient id="glass" x1="0" y1="0" x2="0.6" y2="1">
   <stop offset="0" stop-color="#fff" stop-opacity=".10"/>
@@ -54,14 +54,14 @@ text{font-family:'Figtree','Segoe UI','Helvetica Neue',Arial,sans-serif}
   <text x="86" y="87" font-size="26" font-weight="800" fill="#fff" text-anchor="middle">A</text>
 </g>
 <text x="62" y="212" font-size="104" font-weight="800" fill="#fff" letter-spacing="-3">Astrow</text>
-<text x="64" y="258" font-size="30" font-weight="700" fill="#a68bff">Développeur FiveM</text>
-<text x="64" y="296" font-size="18" font-weight="500" fill="#fff" fill-opacity=".66">Bases de serveur, interfaces en jeu et outils.</text>
+<text x="64" y="258" font-size="30" font-weight="700" fill="#a68bff">FiveM Developer</text>
+<text x="64" y="296" font-size="18" font-weight="500" fill="#fff" fill-opacity=".66">Server bases, in-game interfaces and tools.</text>
 
 <g>
   <rect x="800" y="40" width="336" height="42" rx="21" fill="url(#glass)" stroke="#fff" stroke-opacity=".16"/>
   <circle class="pulse" cx="826" cy="61" r="5" fill="#5fe8a6"/>
   <circle cx="826" cy="61" r="5" fill="#5fe8a6"/>
-  <text x="846" y="67" font-size="16" font-weight="600" fill="#fff" fill-opacity=".9">Disponible pour de nouveaux projets</text>
+  <text x="846" y="67" font-size="16" font-weight="600" fill="#fff" fill-opacity=".9">Open to new projects</text>
 </g>
 
 <g class="bob">
