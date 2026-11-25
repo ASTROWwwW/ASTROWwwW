@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Astrow</h1>
+<h1 align="center">Hi, I'm Astrow</h1>
 <h3 align="center">Software developer · open source and business software</h3>
 
 <p align="center">
@@ -9,13 +9,12 @@
   <a href="https://github.com/ASTROWwwW?tab=followers"><img src="https://img.shields.io/github/followers/ASTROWwwW?style=flat&logo=github&label=Followers&color=8b6cf0&labelColor=0a0912" alt="Followers"></a>
 </p>
 
-- 🔭 I'm building **[More](https://github.com/ASTROWwwW/more)**, an open-source network for sharing GPU power, written in Rust
-- 🧩 I'm building a **CRM** with a small team, with AI at its core: TypeScript, Fastify, React and PostgreSQL. It is private for now
-- ⚙️ I automate business work with AI agents, n8n and Odoo
-- 🎮 I did **FiveM** and contribute to the **ESX** framework
-- 💬 Ask me about **Rust, TypeScript, PostgreSQL and Lua**
-- 📫 Reach me on [Discord](https://discord.gg/6gHV4xZyB) or by [email](mailto:contact@agent-base.shop)
-- 🌐 More about me on my [portfolio](https://astrowwww.github.io)
+- I'm building [More](https://github.com/ASTROWwwW/more), an open-source network where people lend their idle GPUs and earn credits to run models too big for their own machine. It's written in Rust.
+- With a small team, I'm building a CRM in TypeScript with Fastify, React and PostgreSQL. It's private for now.
+- I automate business work with AI agents, n8n and Odoo.
+- I did FiveM and contribute to ESX.
+- Ask me about Rust, TypeScript, PostgreSQL or Lua.
+- Reach me on [Discord](https://discord.gg/6gHV4xZyB) or by [email](mailto:contact@agent-base.shop). My portfolio is at [astrowwww.github.io](https://astrowwww.github.io).
 
 ### Languages and tools
 
