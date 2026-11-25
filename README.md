@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Astrow</h1>
-<h3 align="center">Software developer · open source and business software</h3>
+<h1 align="center">Astrow</h1>
+<h3 align="center">Software developer · Creating some cool stuff</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Building%20More;Building%20a%20CRM;AI%20agents%20and%20automation;Rust%20%C2%B7%20TypeScript&font=Fira%20Code&center=true&width=400&height=45&color=a68bff&vCenter=true&pause=1000&size=22" alt="Typing animation"></a>
