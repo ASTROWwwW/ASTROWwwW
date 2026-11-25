@@ -2,12 +2,9 @@
 
 <a href="https://astrowwww.github.io"><img src="assets/header.svg" alt="Astrow, FiveM developer" width="100%"></a>
 
-<br><br>
+<br>
 
-<a href="https://astrowwww.github.io"><img src="assets/bouton-portfolio.svg" alt="View portfolio" height="52"></a>
-<a href="https://discord.gg/6gHV4xZyB"><img src="assets/bouton-discord.svg" alt="Discord" height="52"></a>
-<a href="https://agent-base.shop"><img src="assets/bouton-store.svg" alt="Agent Store" height="52"></a>
-<a href="mailto:contact@agent-base.shop"><img src="assets/bouton-email.svg" alt="Email me" height="52"></a>
+[Portfolio](https://astrowwww.github.io) · [Discord](https://discord.gg/6gHV4xZyB) · [Agent Store](https://agent-base.shop) · [Email](mailto:contact@agent-base.shop)
 
 </div>
 
